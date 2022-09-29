@@ -63,6 +63,7 @@ top: 40px;
     border-radius: 24px;
     margin-left: 10%;
     border-color: #D8DFE8;
+    color: #0A3871;
 }
 
 .right {
@@ -89,11 +90,12 @@ border-radius: 32px;
     margin-left: 5%;
     margin-right: 5%;
     text-align: center;
+    font-size: large;
 }
 #texto2 {
     float: left;
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 5%;
     color: #0A3871;
     width: 80%;
     height: auto;
